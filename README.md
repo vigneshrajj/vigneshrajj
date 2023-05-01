@@ -1,5 +1,4 @@
 ### Hi, I am Vignesh 👋
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vigneshrajj&theme=2077">
 <table style="width:100%;">
   <tr>
     <th>Languages</th>
@@ -69,3 +68,8 @@
     </td>
   </tr>
 </table>
+<br>
+<div style="display: flex;">
+	<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vigneshrajj&theme=2077">
+	<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vigneshrajj&theme=2077">
+</div>
